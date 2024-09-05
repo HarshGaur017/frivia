@@ -1,4 +1,4 @@
-![Frivia](https://github.com/user-attachments/assets/7deaaa93-e529-460d-9acf-efaabd521d9f){: height="150px" }
+<img src="https://github.com/user-attachments/assets/7deaaa93-e529-460d-9acf-efaabd521d9f" height="150">
 
 # Frivia App
 
