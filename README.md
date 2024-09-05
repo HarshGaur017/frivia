@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/7deaaa93-e529-460d-9acf-efaabd521d9f" height="250">
+<img src="https://github.com/user-attachments/assets/7deaaa93-e529-460d-9acf-efaabd521d9f" height="350">
 
 # Frivia App
 
@@ -67,6 +67,6 @@ The Frivia App is licensed under the MIT License.
 2. Flutter and Provider for providing the development framework and state management architecture
 
 
-<a href="https://github.com/user-attachments/assets/493e1974-0d56-4ce8-b570-4bf3e7999f1b"><img src="https://github.com/user-attachments/assets/493e1974-0d56-4ce8-b570-4bf3e7999f1b" alt="Screenshot_1725535761" height="150" style="display: inline-block;"></a>
-<a href="https://github.com/user-attachments/assets/88dd8961-ac40-4978-9ba1-cdb9d5317bf6"><img src="https://github.com/user-attachments/assets/88dd8961-ac40-4978-9ba1-cdb9d5317bf6" alt="Screenshot_1725535746" height="150" style="display: inline-block;"></a>
+<a href="https://github.com/user-attachments/assets/493e1974-0d56-4ce8-b570-4bf3e7999f1b"><img src="https://github.com/user-attachments/assets/493e1974-0d56-4ce8-b570-4bf3e7999f1b" alt="Screenshot_1725535761" height="300" style="display: inline-block;"></a>
+<a href="https://github.com/user-attachments/assets/88dd8961-ac40-4978-9ba1-cdb9d5317bf6"><img src="https://github.com/user-attachments/assets/88dd8961-ac40-4978-9ba1-cdb9d5317bf6" alt="Screenshot_1725535746" height="300" style="display: inline-block;"></a>
 
